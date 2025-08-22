@@ -1,0 +1,5 @@
+{
+  "name": "Persona Pilot",
+  "description": "An application to help product teams generate AI-driven personas from research data and then simulate user testing with those personas.",
+  "requestFramePermissions": []
+}
